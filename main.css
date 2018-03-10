@@ -1,0 +1,14 @@
+div.image {
+    background-image: url('fela.jpg');
+    width:604px;
+    height:453px;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+div.image.blur{
+    filter:blur(5px);
+}
+div.image.focus{
+    /*clip-path: circle(60px at center);*/
+}
