@@ -1,2 +1,2 @@
 # BlurWidget
-exporting of focused circle on blured image
+exporting of focused circle on blured image assignment
