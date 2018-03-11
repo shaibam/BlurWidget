@@ -14,7 +14,13 @@ div.image {
 }
 div.image.blur{
     filter:blur(5px);
+    display: none;
 }
 div.image.focus{
-    clip-path: circle(0px at center);
+    clip-path: circle(60px at center);
+}
+#canvas {
+    position: absolute;
+    left:0px;
+    top:0px;
 }
